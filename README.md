@@ -1,20 +1,25 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:102A43,18:1E3A5F,38:2F80A8,58:7AA6D9,78:F4B7C7,100:F6D9A6&height=300&section=header&text=Maverick&fontSize=72&fontColor=F8FAFC&fontAlignY=38&animation=fadeIn&desc=Beyond%20the%20well%20%C2%B7%20Beyond%20the%20shell%20%C2%B7%20Toward%20a%20wider%20world&descSize=18&descAlignY=64" width="100%" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:07111F,18:102A43,38:155E75,58:38BDF8,78:93C5FD,100:E0F2FE&height=260&section=header&text=Maverick&fontSize=68&fontColor=F8FAFC&fontAlignY=40&animation=fadeIn"
+    width="100%"
+    alt="Maverick header"
+  />
 </p>
 
 <div align="center">
 
-<p align="center">
-  <img src="./assets/maverick-wide.png" width="100%" alt="Maverick wide landscape banner" />
-</p>
-
-
-<br />
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7AA6D9,25:F4B7C7,50:F6D9A6,75:8FCF9B,100:4F6F52&height=3&width=68%25" />
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=1&pause=99999&color=0:07111F&center=true&vCenter=true&width=420&lines=LOCKED"
+/>
 
 <br />
 <br />
+
+<img
+  src="https://capsule-render.vercel.app/api?type=rect&color=0:155E75,20:38BDF8,42:93C5FD,62:F4B7C7,82:F6D9A6,100:8FCF9B&height=3&width=78%25"
+  alt="Gradient divider"
+/>
+
 </div>
 
 <br />
@@ -23,48 +28,102 @@
 
 ## About
 
-From what I have observed so far, people easily adapt to the standards of the environment they belong to.
+The name **Maverick** represents an independent approach to standards, learning, and growth.
 
-Even standards that once seemed insufficient can become familiar over time, and at some point, people may begin to accept those standards as their own limits.
+It does not mean rejecting existing standards simply because they already exist.  
+It means examining them carefully, understanding where they come from, and deciding whether they are worth accepting.
 
-But the level of my surrounding environment should not become my standard.
+A local environment can easily become a reference point.  
+Over time, its average level may begin to look normal.  
+But what is normal nearby is not always what is sufficient.
 
-The limits of the group I belong to should not become the limits of who I am.
+I do not believe that a person should lower their standards just because the surrounding environment is comfortable with lower ones.
 
-If one stays inside the well for too long, it becomes difficult to imagine the size of the world outside.
+The level of the group I belong to should not automatically become the level I aim for.
 
-Staying inside the shell may feel safe, but to be born, the shell must eventually be broken.
+<br />
 
-This independent learning process began from that awareness.
+<div align="center">
 
-It was not created to simply follow a given curriculum, but to rebuild the foundations I found lacking on my own terms.
+<img
+  src="https://capsule-render.vercel.app/api?type=rect&color=0:07111F,30:155E75,60:38BDF8,100:E0F2FE&height=2&width=56%25"
+  alt="Divider"
+/>
 
-I created this process to avoid becoming accustomed to low standards, to measure myself again by standards beyond a familiar environment, and to move further than the limits of the place I currently belong to.
+<br />
+
+<b>Independent thinking, standards beyond surroundings.</b>
+
+<br />
+
+<img
+  src="https://capsule-render.vercel.app/api?type=rect&color=0:E0F2FE,30:38BDF8,60:155E75,100:07111F&height=2&width=56%25"
+  alt="Divider"
+/>
+
+</div>
+
+<br />
+
+Learning should not be limited by the average level of a local environment.
+
+When people stay too long inside one environment, they may begin to confuse familiarity with adequacy.  
+A standard can feel natural not because it is high enough, but because it has been repeated often enough.
+
+For that reason, I try not to measure myself only against what is immediately around me.
+
+A familiar standard is not always a final standard.  
+A common limit is not always a personal limit.  
+A comfortable environment is not always the right environment for growth.
+
+<br />
+
+> “The bird fights its way out of the egg. The egg is the world. Whoever will be born must destroy a world.”  
+> — Hermann Hesse, *Demian*
+
+<br />
+
+Not every inherited rule should become a personal constraint.  
+Not every surrounding standard should become a personal standard.
+
+<br />
+
+<div align="center">
+
+<img
+  src="https://capsule-render.vercel.app/api?type=rect&color=0:155E75,20:38BDF8,42:93C5FD,62:F4B7C7,82:F6D9A6,100:8FCF9B&height=3&width=78%25"
+  alt="Gradient divider"
+/>
+
+</div>
 
 <br />
 
 <p align="center">
-  <img src="./assets/maverick-portrait.png" width="58%" alt="A vertical landscape representing the path beyond a familiar environment" />
+  <img
+    src="./assets/maverick-wide.png"
+    width="100%"
+    alt="Maverick wide landscape banner"
+  />
 </p>
 
 <br />
 
----
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4F6F52,25:8FCF9B,50:F6D9A6,75:F4B7C7,100:7AA6D9&height=3&width=68%25" />
-
-<br />
-<br />
-
-<i>Let’s all become mavericks!</i>
-
-<br />
-<br />
+<img
+  src="https://capsule-render.vercel.app/api?type=rect&color=0:8FCF9B,20:F6D9A6,42:F4B7C7,62:93C5FD,82:38BDF8,100:155E75&height=3&width=78%25"
+  alt="Gradient divider"
+/>
 
 </div>
 
+<br />
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F6D9A6,22:F4B7C7,48:7AA6D9,72:1E3A5F,100:102A43&height=180&section=footer" width="100%" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:E0F2FE,22:93C5FD,48:38BDF8,72:155E75,100:07111F&height=160&section=footer"
+    width="100%"
+    alt="Footer"
+  />
 </p>
