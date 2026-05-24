@@ -65,29 +65,6 @@ The level of the group I belong to should not automatically become the level I a
 
 <br />
 
-Learning should not be limited by the average level of a local environment.
-
-When people stay too long inside one environment, they may begin to confuse familiarity with adequacy.  
-A standard can feel natural not because it is high enough, but because it has been repeated often enough.
-
-For that reason, I try not to measure myself only against what is immediately around me.
-
-A familiar standard is not always a final standard.  
-A common limit is not always a personal limit.  
-A comfortable environment is not always the right environment for growth.
-
-<br />
-
-> “The bird fights its way out of the egg. The egg is the world. Whoever will be born must destroy a world.”  
-> — Hermann Hesse, *Demian*
-
-<br />
-
-Not every inherited rule should become a personal constraint.  
-Not every surrounding standard should become a personal standard.
-
-<br />
-
 <div align="center">
 
 <img
