@@ -78,7 +78,7 @@ The level of the group I belong to should not automatically become the level I a
 
 <p align="center">
   <img
-    src="./assets/maverick-wide.png"
+    src="./assets/maverick-portrait.png"
     width="100%"
     alt="Maverick wide landscape banner"
   />
