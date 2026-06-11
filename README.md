@@ -74,15 +74,6 @@ The goal is not shallow exposure, but disciplined understanding through:
 
 </div>
 
-<br />
-
-<p align="center">
-  <img
-    src="./assets/maverick-portrait.png"
-    width="100%"
-    alt="Maverick wide landscape banner"
-  />
-</p>
 
 <br />
 
