@@ -9,7 +9,7 @@
 <div align="center">
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=1&pause=99999&color=0:07111F&center=true&vCenter=true&width=420&lines=LOCKED"
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=1&pause=99999&color=155E75&center=true&vCenter=true&width=700&lines=MAVERICK+LOCK+UNSEALED;D2L+%2B+MML+CAMPAIGN+STARTED"
 />
 
 <br />
@@ -28,18 +28,10 @@
 
 ## About
 
-The name **Maverick** represents an independent approach to standards, learning, and growth.
+From **June 11 to September 7**, I am committing to a focused campaign to study:
 
-It does not mean rejecting existing standards simply because they already exist.  
-It means examining them carefully, understanding where they come from, and deciding whether they are worth accepting.
-
-A local environment can easily become a reference point.  
-Over time, its average level may begin to look normal.  
-But what is normal nearby is not always what is sufficient.
-
-I do not believe that a person should lower their standards just because the surrounding environment is comfortable with lower ones.
-
-The level of the group I belong to should not automatically become the level I aim for.
+- **D2L (Dive into Deep Learning)**
+The goal is not shallow exposure, but disciplined understanding through:
 
 <br />
 
@@ -52,7 +44,15 @@ The level of the group I belong to should not automatically become the level I a
 
 <br />
 
-<b>Independent thinking, standards beyond surroundings.</b>
+<b>Maverick Lock: Unsealed</b>
+
+<br />
+
+<b>D2L + MML Campaign · 2026.06.11 — 2026.09.07</b>
+
+<br />
+
+<b>Read. Derive. Implement. Commit. Review.</b>
 
 <br />
 
