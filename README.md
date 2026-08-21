@@ -20,8 +20,8 @@
 | Email | [add28482848@kyonggi.ac.kr](mailto:add28482848@kyonggi.ac.kr) |
 
 <br />
-
-## About
+ 
+## About Me
 
 Exploring diverse AI domains by studying the principles behind modern models
 and designing reproducible research pipelines from experimentation to deployment.
@@ -35,30 +35,29 @@ and designing reproducible research pipelines from experimentation to deployment
 
 <br />
 
-## Featured Work
+## Featured Works
 
-### 01 · [MediScope](https://github.com/Laplace-tech/capstone-cxr) &nbsp; ![Team Leader](https://img.shields.io/badge/Team%20Leader-DB2777?style=flat-square)
+### 01 · [MediScope](https://github.com/Laplace-tech/capstone-cxr) &nbsp;<sub><img src="https://img.shields.io/badge/Team%20Leader-0F766E?style=flat-square" alt="Team Leader" /></sub>
 
-Chest X-ray classification model과 Grad-CAM을 web-application으로 연결한 판독 보조 프로토타입.
+CNN 기반 Chest X-ray classification model과 Grad-CAM 시각화 기법을 web application으로 통합한 의료영상 판독 보조 프로토타입.
 
 - Multi-label classification과 Grad-CAM을 결합한 AI architecture 설계
 - Data preparation, model training, inference, service integration을 잇는 end-to-end R&D pipeline 구축
 
-### 02 · [CheXpert Research PoC](https://github.com/Laplace-tech/CheXpert) &nbsp; ![1st Author](https://img.shields.io/badge/1st%20Author-6D28D9?style=flat-square)
+### 02 · [CheXpert Research PoC](https://github.com/Laplace-tech/CheXpert) &nbsp;<sub><img src="https://img.shields.io/badge/1st%20Author-475569?style=flat-square" alt="1st Author" /></sub>
 
-CheXpert dataset을 기반으로 전통적인 medical image classification 연구 과정을 검증한 end-to-end PoC.
+Stanford Machine Learning Group이 공개한 CheXpert dataset을 활용해 medical image classification model의 학습과 평가 과정을 검증한 PoC.
 
 - Uncertainty label policy를 포함한 data preparation과 model training workflow 설계
 - Class-wise evaluation, threshold tuning, error analysis, Grad-CAM 기반 inference flow 구현
 - 2026 한국정보기술학회 하계종합학술대회 대학생 논문경진대회 우수논문상 은상
 
-### 03 · [Maverick](https://github.com/Laplace-tech/maverick) &nbsp; ![2026 하계방학 개인 공부](https://img.shields.io/badge/2026%20%ED%95%98%EA%B3%84%EB%B0%A9%ED%95%99%20%EA%B0%9C%EC%9D%B8%20%EA%B3%B5%EB%B6%80-1E1B4B?style=flat-square)
+### 03 · [Maverick](https://github.com/Laplace-tech/maverick) &nbsp;<sub><img src="https://img.shields.io/badge/2026%20%ED%95%98%EA%B3%84%EB%B0%A9%ED%95%99%20%EA%B0%9C%EC%9D%B8%20%EA%B3%B5%EB%B6%80-1E3A5F?style=flat-square" alt="2026 하계방학 개인 공부" /></sub>
 
 [Dive into Deep Learning](https://d2l.ai/)의 수식과 algorithm을 PyTorch로 재구성한 학습 repository.
 
 - Linear Regression과 Classification부터 CNN, RNN, Attention, Transformer까지 Modern 딥러닝의 핵심 model을 scratch 부터 구현
 - Low-level algorithm과 PyTorch abstraction을 비교하며 tensor shape, data flow, training behavior 검증
-
 <br />
 
 ## Technical Range
