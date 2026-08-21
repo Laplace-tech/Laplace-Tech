@@ -10,11 +10,12 @@
 
 | | |
 |---|---|
-| Name | Yongmin Park |
-| Academic Affiliation | Kyonggi University · Computer Engineering |
+| Name | Yongmin Park (박용민) |
+| Academic Affiliation | 경기대학교(수원) · 컴퓨터공학전공 |
 | Academic Status | 3rd-Year Undergraduate Student |
-| Research Lab | Not currently affiliated |
-| Current Work | Private Deep Learning Study · AI Experimentation |
+| Current Focus | Modern Deep Learning Foundations |
+| Research Experience | Medical AI · Explainable AI · End-to-End Experiment Pipelines |
+| Current Work | Independent Deep Learning Study |
 | Email | [add28482848@kyonggi.ac.kr](mailto:add28482848@kyonggi.ac.kr) |
 
 ## About
@@ -25,8 +26,7 @@ and designing reproducible research pipelines from experimentation to deployment
 ## Research Interests
 
 - Optimization algorithm과 learning dynamics의 mathematical analysis
-- Attention, Transformer, Vision Transformer의 architecture 및 information flow
-- Multimodal Learning과 Vision-Language Model
+- Attention, Vision Transformer의 architecture 및 information flow
 
 ## Featured Work
 
