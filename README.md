@@ -1,8 +1,8 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0614,25:1E1B4B,50:6D28D9,75:DB2777,100:F472B6&height=290&section=header&text=Min%27s%20Neural%20Cloud%20Hub&fontFamily=Cinzel&fontSize=50&fontColor=FFFFFF&fontAlignY=36&animation=twinkling&desc=An%20Archive%20of%20AI%20Research%20Projects%20and%20Experiments&descSize=19&descAlignY=59&stroke=F9A8D4&strokeWidth=1"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0614,25:1E1B4B,50:6D28D9,75:DB2777,100:F472B6&height=290&section=header&text=Neural%20Cloud%20Hub&fontFamily=Cinzel&fontSize=50&fontColor=FFFFFF&fontAlignY=36&animation=twinkling&desc=An%20Archive%20of%20AI%20Research%20Projects%20and%20Experiments&descSize=19&descAlignY=59&stroke=F9A8D4&strokeWidth=1"
     width="100%"
-    alt="Min's Neural Cloud Hub"
+    alt="Neural Cloud Hub"
   />
 </p>
 
