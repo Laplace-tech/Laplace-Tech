@@ -46,7 +46,7 @@ CNN 기반 Chest X-ray classification model과 Grad-CAM 시각화 기법을 web 
 
 ### 02 · [CheXpert Research PoC](https://github.com/Laplace-tech/CheXpert) &nbsp;<sub><img src="https://img.shields.io/badge/1st%20Author-475569?style=flat-square" alt="1st Author" /></sub>
 
-Stanford Machine Learning Group이 공개한 CheXpert dataset을 활용해 medical image classification model의 학습과 평가 과정을 검증한 PoC.
+스탠퍼드 머신러닝 그룹이 공개한 CheXpert 데이터셋을 활용해 의료영상 분류 모델의 학습·평가 파이프라인을 검증한 전통적인 ML PoC.
 
 - Uncertainty label policy를 포함한 data preparation과 model training workflow 설계
 - Class-wise evaluation, threshold tuning, error analysis, Grad-CAM 기반 inference flow 구현
