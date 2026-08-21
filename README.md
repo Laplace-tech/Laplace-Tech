@@ -6,20 +6,6 @@
   />
 </p>
 
-<div align="center">
-
-**Undergraduate AI Researcher**
-
-<sub>Model foundations · Reproducible experiments · End-to-end research pipelines</sub>
-
-<br />
-
-[Profile](#profile) · [Research Interests](#research-interests) · [Featured Work](#featured-work) · [Technical Range](#technical-range)
-
-</div>
-
----
-
 ## Profile
 
 | | |
@@ -33,46 +19,39 @@
 
 ## About
 
-> Exploring diverse AI domains by studying the principles behind modern models
-> and designing reproducible research pipelines from experimentation to deployment.
-
----
+Exploring diverse AI domains by studying the principles behind modern models
+and designing reproducible research pipelines from experimentation to deployment.
 
 ## Research Interests
 
-- **Optimization** — algorithm과 learning dynamics의 mathematical analysis
-- **Attention & Transformers** — Transformer와 Vision Transformer의 architecture 및 information flow
-- **Multimodal AI** — Multimodal Learning과 Vision-Language Model
-
----
+- Optimization algorithm과 learning dynamics의 mathematical analysis
+- Attention, Transformer, Vision Transformer의 architecture 및 information flow
+- Multimodal Learning과 Vision-Language Model
 
 ## Featured Work
 
 ### 1. [MediScope](https://github.com/Laplace-tech/capstone-cxr)
 
-**Chest X-ray classification**과 **Grad-CAM**을 application으로 연결한 판독 보조 prototype.
+Chest X-ray classification model과 Grad-CAM을 application으로 연결한 전통적 판독 보조 프로토타입.
 
-- **Direction** — Project direction과 AI architecture 설계
-- **Pipeline** — Data preparation, model training, inference, service integration으로 이어지는 end-to-end R&D pipeline 구축
-
-> **Award · 2026** — 한국정보기술학회 하계종합학술대회 대학생 논문경진대회 우수논문상 은상
+- Project direction과 AI architecture 설계
+- Data preparation, model training, inference, service integration으로 이어지는 end-to-end R&D pipeline 구축
+- 한국정보기술학회 하계종합학술대회 대학생 논문경진대회 우수논문상 은상
 
 ### 2. [CheXpert Research PoC](https://github.com/Laplace-tech/CheXpert)
 
-**Medical imaging task**를 바탕으로 구축한 end-to-end AI experiment pipeline.
+Medical imaging task를 바탕으로 구축한 end-to-end AI experiment pipeline.
 
-- **Data** — Data preparation과 uncertainty label policy 설계
-- **Evaluation** — Model training, evaluation, threshold tuning, error analysis 수행
-- **Inference** — Grad-CAM visualization과 재사용 가능한 inference flow 구현
+- Data preparation과 uncertainty label policy 설계
+- Model training, evaluation, threshold tuning, error analysis 수행
+- Grad-CAM visualization과 재사용 가능한 inference flow 구현
 
 ### 3. [Maverick](https://github.com/Laplace-tech/maverick)
 
-[Dive into Deep Learning](https://d2l.ai/)의 수식과 algorithm을 **PyTorch**로 직접 구현한 학습 repository.
+[Dive into Deep Learning](https://d2l.ai/)의 수식과 algorithm을 PyTorch로 직접 구현한 학습 repository.
 
-- **Coverage** — Mathematical foundation부터 CNN, RNN, Attention, Transformer, Vision Transformer까지 modern Deep Learning의 주요 범위 학습
-- **Method** — From-scratch implementation과 framework-based implementation 비교
-
----
+- Mathematical foundation부터 CNN, RNN, Attention, Transformer, Vision Transformer까지 modern Deep Learning의 주요 범위 학습
+- From-scratch implementation과 framework-based implementation 비교
 
 ## Technical Range
 
@@ -106,7 +85,7 @@
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:F472B6,25:DB2777,50:6D28D9,75:1E1B4B,100:0B0614&height=140&section=footer"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,22:164E63,50:1F2937,72:111827,100:030712&height=140&section=footer"
     width="100%"
     alt="Footer"
   />
