@@ -11,10 +11,10 @@
 | | |
 |---|---|
 | Name | Yongmin Park (박용민) |
-| Academic Affiliation | 경기대학교(수원) · 컴퓨터공학전공 |
-| Academic Status | 3rd-Year Undergraduate Student |
-| Current Focus | Modern Deep Learning Foundations |
-| Research Experience | Medical AI · Explainable AI · End-to-End Experiment Pipelines |
+| Academic Affiliation | 경기대학교(수원) · 컴퓨터공학전공|
+| Academic Status | 3rd-Year Undergraduate Student (2022) |
+| Current Focus | Classical Statistical Learning Method · Modern Deep Learning Foundations |
+| Research Experience | Medical AI · End-to-End Experiment Pipelines |
 | Current Work | Independent Deep Learning Study |
 | Email | [add28482848@kyonggi.ac.kr](mailto:add28482848@kyonggi.ac.kr) |
 
@@ -30,28 +30,28 @@ and designing reproducible research pipelines from experimentation to deployment
 
 ## Featured Work
 
-### 1. [MediScope](https://github.com/Laplace-tech/capstone-cxr)
+### 1. [MediScope](https://github.com/Laplace-tech/capstone-cxr) [Team Leader]
 
-Chest X-ray classification model과 Grad-CAM을 application으로 연결한 전통적 판독 보조 프로토타입.
+Chest X-ray classification model과 Grad-CAM을 web-application으로 연결한 판독 보조 프로토타입.
 
-- Project direction과 AI architecture 설계
-- Data preparation, model training, inference, service integration으로 이어지는 end-to-end R&D pipeline 구축
-- 한국정보기술학회 하계종합학술대회 대학생 논문경진대회 우수논문상 은상
+- Multi-label classification과 Grad-CAM을 결합한 AI architecture 설계
+- Data preparation, model training, inference, service integration을 잇는 end-to-end R&D pipeline 구축
 
-### 2. [CheXpert Research PoC](https://github.com/Laplace-tech/CheXpert)
+### 2. [CheXpert Research PoC](https://github.com/Laplace-tech/CheXpert) [1st Author]
 
-Medical imaging task를 바탕으로 구축한 end-to-end AI experiment pipeline.
+CheXpert dataset을 기반으로 전통적인 medical image classification 연구 과정을 검증한 end-to-end PoC.
 
-- Data preparation과 uncertainty label policy 설계
-- Model training, evaluation, threshold tuning, error analysis 수행
-- Grad-CAM visualization과 재사용 가능한 inference flow 구현
+- Uncertainty label policy를 포함한 data preparation과 model training workflow 설계
+- Class-wise evaluation, threshold tuning, error analysis, Grad-CAM 기반 inference flow 구현
+- 2026 한국정보기술학회 하계종합학술대회 대학생 논문경진대회 우수논문상 은상
 
-### 3. [Maverick](https://github.com/Laplace-tech/maverick)
+### 3. [Maverick](https://github.com/Laplace-tech/maverick) [2026 하계방학 개인 공부]
 
-[Dive into Deep Learning](https://d2l.ai/)의 수식과 algorithm을 PyTorch로 직접 구현한 학습 repository.
+[Dive into Deep Learning](https://d2l.ai/)의 수식과 algorithm을 PyTorch로 재구성한 학습 repository.
 
-- Mathematical foundation부터 CNN, RNN, Attention, Transformer, Vision Transformer까지 modern Deep Learning의 주요 범위 학습
-- From-scratch implementation과 framework-based implementation 비교
+- Linear Regression과 Classification부터 CNN, RNN, Attention, Transformer까지 Modern 딥러닝의 핵심 model을 scratch 부터 구현
+- Low-level algorithm과 PyTorch abstraction을 비교하며 tensor shape, data flow, training behavior 검증
+
 
 ## Technical Range
 
