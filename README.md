@@ -13,8 +13,8 @@
 | | |
 |---|---|
 | Name | Yongmin Park (박용민) |
-| Academic Affiliation | 경기대학교(수원) · 컴퓨터공학전공|
-| Academic Status | 3rd-Year Undergraduate Student · Entered in 2022 |
+| Academic Affiliation | 경기대학교(수원) · 컴퓨터공학전공 (Entered in 2022) |
+| Academic Status | 3rd-Year Undergraduate Student |
 | Current Focus | Classical Statistical Learning Method · Modern Deep Learning Foundations |
 | Current Work | Independent Deep Learning Study |
 | Email | [add28482848@kyonggi.ac.kr](mailto:add28482848@kyonggi.ac.kr) |
