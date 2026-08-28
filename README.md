@@ -27,6 +27,7 @@
 | Academic Status | 3rd-Year Undergraduate Student |
 | Current Research | Quantitative Medical Imaging · Musculoskeletal Ultrasound |
 | Current Study | Statistical Learning · Modern Deep Learning Foundations |
+| Portfolio | [laplace-tech.github.io](https://laplace-tech.github.io/) |
 | Email | [add28482848@kyonggi.ac.kr](mailto:add28482848@kyonggi.ac.kr) |
 
 ## Current Research
