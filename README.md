@@ -13,9 +13,8 @@
 | Name | Yongmin Park (박용민) |
 | Academic Affiliation | 경기대학교(수원) · 컴퓨터공학전공 (Entered in 2022) |
 | Academic Status | 3rd-Year Undergraduate Student |
-| Current Research | Quantitative Medical Imaging · Musculoskeletal Ultrasound |
-| Current Study | Statistical Learning · Modern Deep Learning Foundations |
-| Portfolio | [laplace-tech.github.io](https://laplace-tech.github.io/) |
+| Current Research (2학기) | Quantitative Medical Imaging · Musculoskeletal Ultrasound |
+| Fundamental Study | Statistical Learning · Modern Deep Learning Foundations |
 | Email | [add28482848@kyonggi.ac.kr](mailto:add28482848@kyonggi.ac.kr) |
 
 ---
