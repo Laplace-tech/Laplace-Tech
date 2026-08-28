@@ -6,18 +6,6 @@
   />
 </p>
 
-<p align="center">
-  Medical imaging AI와 reproducible experimentation을 공부하며,<br />
-  문제 정의부터 evaluation과 deployment까지 연결되는 프로젝트를 구축하고 있습니다.
-</p>
-
-<p align="center">
-  <a href="#current-research">Current Research</a> ·
-  <a href="#selected-projects">Selected Projects</a> ·
-  <a href="#research-interests">Research Interests</a> ·
-  <a href="#technical-range">Technical Range</a>
-</p>
-
 ## Profile
 
 | | |
@@ -30,32 +18,31 @@
 | Portfolio | [laplace-tech.github.io](https://laplace-tech.github.io/) |
 | Email | [add28482848@kyonggi.ac.kr](mailto:add28482848@kyonggi.ac.kr) |
 
-## Current Research
-
-### [UMUD Muscle Ultrasound Research](https://github.com/Laplace-tech/umud-muscle-ultrasound-research) &nbsp;<sub><img src="https://img.shields.io/badge/IN%20PROGRESS-7C3AED?style=flat-square" alt="In Progress" /></sub>
-
-[UMUD Challenge: Muscle Architecture in Ultrasound Data](https://www.kaggle.com/competitions/umud-challenge-muscle-architecture-in-ultrasound-data)를 기반으로, 근골격 초음파 영상에서 muscle architecture를 자동 정량화하는 독립 연구 프로젝트.
-
-- **Targets:** Pennation Angle, Fascicle Length, Muscle Thickness
-- **Research direction:** `structure extraction → anatomical geometry → quantitative measurement`
-- **Methodology:** leakage-resistant validation, controlled experiments, ablation, error analysis
-- **Outcome:** Private Leaderboard 평가와 공개·재현 가능한 research pipeline
-- **Current phase:** Competition rules, metric, dataset provenance, sequence grouping audit
-
-> 목표는 단일 제출을 만드는 데 그치지 않고, 외부 검증 가능한 성능과 재현 가능한 연구 근거를 함께 남기는 것입니다.
+---
 
 ## About
 
 Exploring diverse AI domains by studying the principles behind modern models
 and designing reproducible research pipelines from experimentation to deployment.
 
+---
+
 ## Research Interests
 
 - Quantitative medical image analysis와 domain-aware validation
-- Optimization algorithms와 learning dynamics의 mathematical analysis
 - Attention과 Vision Transformer의 architecture 및 information flow
 
-## Selected Projects
+---
+
+## Current Research
+
+### [UMUD Muscle Ultrasound Research](https://github.com/Laplace-tech/umud-muscle-ultrasound-research) &nbsp;<sub><img src="https://img.shields.io/badge/IN%20PROGRESS-7C3AED?style=flat-square" alt="In Progress" /></sub>
+
+[UMUD Challenge: Muscle Architecture in Ultrasound Data](https://www.kaggle.com/competitions/umud-challenge-muscle-architecture-in-ultrasound-data)를 기반으로, 근골격 초음파 영상에서 muscle architecture를 자동 정량화하는 독립 연구 프로젝트.
+
+---
+
+## Completed works
 
 ### 01 · [MediScope](https://github.com/Laplace-tech/capstone-cxr) &nbsp;<sub><img src="https://img.shields.io/badge/Team%20Leader-0F766E?style=flat-square" alt="Team Leader" /></sub>
 
@@ -63,6 +50,8 @@ CNN 기반 Chest X-ray classification model과 Grad-CAM 시각화 기법을 web 
 
 - Multi-label classification과 Grad-CAM을 결합한 AI architecture 설계
 - Data preparation, model training, inference, service integration을 잇는 end-to-end R&D pipeline 구축
+
+<br />
 
 ### 02 · [CheXpert Research PoC](https://github.com/Laplace-tech/CheXpert) &nbsp;<sub><img src="https://img.shields.io/badge/1st%20Author-475569?style=flat-square" alt="1st Author" /></sub>
 
@@ -72,6 +61,8 @@ CNN 기반 Chest X-ray classification model과 Grad-CAM 시각화 기법을 web 
 - Class-wise evaluation, threshold tuning, error analysis, Grad-CAM 기반 inference flow 구현
 - 2026 한국정보기술학회 하계종합학술대회 대학생 논문경진대회 우수논문상 은상
 
+<br />
+
 ### 03 · [Maverick](https://github.com/Laplace-tech/maverick) &nbsp;<sub><img src="https://img.shields.io/badge/2026%20%ED%95%98%EA%B3%84%EB%B0%A9%ED%95%99%20%EA%B0%9C%EC%9D%B8%20%EA%B3%B5%EB%B6%80-1E3A5F?style=flat-square" alt="2026 하계방학 개인 공부" /></sub>
 
 [Dive into Deep Learning](https://d2l.ai/)의 수식과 algorithm을 PyTorch로 재구성한 학습 repository.
@@ -79,13 +70,33 @@ CNN 기반 Chest X-ray classification model과 Grad-CAM 시각화 기법을 web 
 - Linear Regression과 Classification부터 CNN, RNN, Attention, Transformer까지 modern deep learning의 핵심 model을 scratch부터 구현
 - Low-level algorithm과 PyTorch abstraction을 비교하며 tensor shape, data flow, training behavior 검증
 
-## Technical Range
+---
 
-| Area | Tools |
-|---|---|
-| AI & Experimentation | `Python` · `PyTorch` · `NumPy` · `pandas` · `scikit-learn` · `Jupyter` |
-| Backend & Data | `FastAPI` · `Java` · `Spring Boot` · `PostgreSQL` |
-| Infrastructure & Development | `Docker` · `Linux` · `Git` · `GitHub` · `VS Code` |
+## Technical Stack
+
+### AI & Experimentation
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+### Backend & Data
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Infrastructure & Development
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 <p align="center">
   <img
