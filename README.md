@@ -19,7 +19,7 @@
 
 ---
 
-## About
+## About Me
 
 Exploring diverse AI domains by studying the principles behind modern models
 and designing reproducible research pipelines from experimentation to deployment.
@@ -37,7 +37,7 @@ and designing reproducible research pipelines from experimentation to deployment
 
 ### [UMUD Muscle Ultrasound Research](https://github.com/Laplace-tech/umud-muscle-ultrasound-research) &nbsp;<sub><img src="https://img.shields.io/badge/IN%20PROGRESS-7C3AED?style=flat-square" alt="In Progress" /></sub>
 
-[UMUD Challenge: Muscle Architecture in Ultrasound Data](https://www.kaggle.com/competitions/umud-challenge-muscle-architecture-in-ultrasound-data)를 기반으로, 근골격 초음파 영상에서 muscle architecture를 자동 정량화하는 독립 연구 프로젝트.
+[UMUD Challenge: Muscle Architecture in Ultrasound Data](https://www.kaggle.com/competitions/umud-challenge-muscle-architecture-in-ultrasound-data)를 기반으로, 근골격 초음파 영상에서 muscle architecture를 자동 정량화하는 독립 연구.
 
 ---
 
