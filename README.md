@@ -13,8 +13,8 @@
 | Name | Yongmin Park (박용민) |
 | Academic Affiliation | 경기대학교(수원) · 컴퓨터공학전공 (Entered in 2022) |
 | Academic Status | 3rd-Year Undergraduate Student |
-| Current Research (2학기) | Quantitative Medical Imaging · 3D Abdominal CT Segmentation |
-| Fundamental Study | 3D Medical Image Analysis · Statistical Learning |
+| Current Research | OLES3D · 3D Abdominal CT Segmentation · Adaptive Patch Sampling |
+| Research Interests | Medical Image Segmentation · Compute-Efficient Learning · Reproducible AI |
 | Email | [add28482848@kyonggi.ac.kr](mailto:add28482848@kyonggi.ac.kr) |
 
 ---
@@ -28,8 +28,9 @@ and designing reproducible research pipelines from experimentation to deployment
 
 ## Research Interests
 
-- Quantitative medical image analysis와 domain-aware validation
-- Attention과 Vision Transformer의 architecture 및 information flow
+- 3D medical image segmentation과 anatomy-aware representation learning
+- Compute-efficient training과 adaptive sampling
+- Reproducible evaluation, domain shift와 uncertainty/error analysis
 
 ---
 
