@@ -14,7 +14,7 @@
 | Academic Affiliation | 경기대학교(수원) · 컴퓨터공학전공 (Entered in 2022) |
 | Academic Status | 3rd-Year Undergraduate Student |
 | Current Research | OLES3D · 3D Abdominal CT Segmentation · Adaptive Patch Sampling |
-| Research Interests | Medical Image Segmentation · Compute-Efficient Learning · Reproducible AI |
+| Research Interests | Medical AI · Medical Imaging · AI for Healthcare |
 | Email | [add28482848@kyonggi.ac.kr](mailto:add28482848@kyonggi.ac.kr) |
 
 ---
@@ -28,9 +28,9 @@ and designing reproducible research pipelines from experimentation to deployment
 
 ## Research Interests
 
-- 3D medical image segmentation과 anatomy-aware representation learning
-- Compute-efficient training과 adaptive sampling
-- Reproducible evaluation, domain shift와 uncertainty/error analysis
+- Medical AI와 healthcare applications
+- Medical image analysis: classification, segmentation과 quantitative imaging
+- Reliable AI for healthcare: generalization, interpretability와 reproducible validation
 
 ---
 
