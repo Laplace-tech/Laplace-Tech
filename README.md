@@ -13,8 +13,8 @@
 | Name | Yongmin Park (박용민) |
 | Academic Affiliation | 경기대학교(수원) · 컴퓨터공학전공 (Entered in 2022) |
 | Academic Status | 3rd-Year Undergraduate Student |
-| Current Research (2학기) | Quantitative Medical Imaging · Musculoskeletal Ultrasound |
-| Fundamental Study | Statistical Learning · Modern Deep Learning Foundations |
+| Current Research (2학기) | Quantitative Medical Imaging · 3D Abdominal CT Segmentation |
+| Fundamental Study | 3D Medical Image Analysis · Statistical Learning |
 | Email | [add28482848@kyonggi.ac.kr](mailto:add28482848@kyonggi.ac.kr) |
 
 ---
@@ -35,9 +35,12 @@ and designing reproducible research pipelines from experimentation to deployment
 
 ## Current Research
 
-### [UMUD Muscle Ultrasound Research](https://github.com/Laplace-tech/umud-muscle-ultrasound-research) &nbsp;<sub><img src="https://img.shields.io/badge/IN%20PROGRESS-7C3AED?style=flat-square" alt="In Progress" /></sub>
+### [OLES3D](https://github.com/Laplace-tech/oles3d) &nbsp;<sub><img src="https://img.shields.io/badge/IN%20PROGRESS-7C3AED?style=flat-square" alt="In Progress" /></sub>
 
-[UMUD Challenge: Muscle Architecture in Ultrasound Data](https://www.kaggle.com/competitions/umud-challenge-muscle-architecture-in-ultrasound-data)를 기반으로, 근골격 초음파 영상에서 muscle architecture를 자동 정량화하는 독립 연구.
+nnU-Net v2의 architecture와 training budget을 고정하고, 장기별 학습상태와 오류유형을 이용한 adaptive patch sampling을 검증하는 3D abdominal CT segmentation 연구.
+
+- TotalSegmentator v2 공개 CT의 selected abdominal organs를 대상으로 한 reproducible evaluation protocol 설계
+- Single 8 GB GPU에서 default, matched static sampler, OLES3D를 비교하고 accuracy–time–memory trade-off 분석
 
 ---
 
