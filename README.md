@@ -28,9 +28,9 @@ and designing reproducible research pipelines from experimentation to deployment
 
 ## Research Interests
 
-- Medical AI와 healthcare applications
-- Medical image analysis: classification, segmentation과 quantitative imaging
-- Reliable AI for healthcare: generalization, interpretability와 reproducible validation
+- Deep learning for medical AI
+- Medical image analysis: classification, segmentation, and quantitative imaging
+- Reliable AI for healthcare: generalization, interpretability, and reproducible validation
 
 ---
 
