@@ -41,7 +41,7 @@ and designing reproducible research pipelines from experimentation to deployment
 nnU-Net 기반 3D 복부 CT 분할에서 장기·오류 유형을 조건부확률로 계층화한 Adaptive Patch Sampling 연구.
 
 - TotalSegmentator · Dice-deficit EMA · 장기별·오류 유형별 적응형 배분
-- 2026 KIIT 추계종합학술대회 대학생논문경진대회 참가 예정
+- 2026 한국정보기술학회(KIIT) 추계종합학술대회 대학생논문경진대회 참가
 
 ---
 
@@ -62,7 +62,7 @@ CNN 기반 Chest X-ray classification model과 Grad-CAM 시각화 기법을 web 
 
 - Uncertainty label policy를 포함한 data preparation과 model training workflow 설계
 - Class-wise evaluation, threshold tuning, error analysis, Grad-CAM 기반 inference flow 구현
-- 2026 한국정보기술학회 하계종합학술대회 대학생 논문경진대회 우수논문상 은상
+- 2026 한국정보기술학회(KIIT) 하계종합학술대회 대학생 논문경진대회 우수논문상 은상
 
 <br />
 
