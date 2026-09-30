@@ -36,7 +36,7 @@ and designing reproducible research pipelines from experimentation to deployment
 
 ## Current Research
 
-### [Hierarchical Patch Sampling for 3D CT](https://github.com/Laplace-tech/hierarchical-patch-sampling-3d)
+### [Hierarchical Patch Sampling for 3D CT](https://github.com/Laplace-tech/hierarchical-patch-sampling-3d) &nbsp;<sub><img src="https://img.shields.io/badge/Sole%20Author-7C3AED?style=flat-square" alt="Sole Author" /></sub>
 
 nnU-Net 기반 3D 복부 CT 분할에서 장기·오류 유형을 조건부확률로 계층화한 Adaptive Patch Sampling 연구.
 
