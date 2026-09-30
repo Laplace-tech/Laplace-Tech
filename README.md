@@ -51,7 +51,7 @@ nnU-Net 기반 3D 복부 CT 분할에서 장기·오류 유형을 조건부확�
 
 DenseNet121의 흉부 X-ray 다중 라벨 분류와 Grad-CAM 시각화를 결합한 판독 보조 웹 프로토타입.
 
-- 5개 소견 예측 · 클래스별 threshold 적용 · Team Leader·AI Lead로 추론 서비스 통합
+- Deep Learning · DenseNet121 · Grad-CAM · Explainable AI · Medical Imaging
 - 관련 공동 논문 제1저자 · 2026 KIIT 하계 대학생논문경진대회 우수논문상(은상)
 
 <br />
