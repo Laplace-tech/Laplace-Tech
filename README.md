@@ -13,24 +13,8 @@
 | Name | Yongmin Park (박용민) |
 | Academic Affiliation | 경기대학교(수원) · 컴퓨터공학전공 (Entered in 2022) |
 | Academic Status | 3rd-Year Undergraduate Student |
-| Current Research | OLES3D · 3D Abdominal CT Segmentation · Adaptive Patch Sampling |
 | Research Interests | Medical AI · Medical Imaging · AI for Healthcare |
 | Email | [add28482848@kyonggi.ac.kr](mailto:add28482848@kyonggi.ac.kr) |
-
----
-
-## About Me
-
-Exploring diverse AI domains by studying the principles behind modern models
-and designing reproducible research pipelines from experimentation to deployment.
-
----
-
-## Research Interests
-
-- Deep learning for medical AI
-- Medical image analysis: classification, segmentation, and quantitative imaging
-- Reliable AI for healthcare: generalization, interpretability, and reproducible validation
 
 ---
 
@@ -38,10 +22,10 @@ and designing reproducible research pipelines from experimentation to deployment
 
 ### [Hierarchical Patch Sampling for 3D CT](https://github.com/Laplace-tech/hierarchical-patch-sampling-3d) &nbsp;<sub><img src="https://img.shields.io/badge/Sole%20Author-7C3AED?style=flat-square" alt="Sole Author" /></sub>
 
-nnU-Net 기반 3D 복부 CT 분할에서 장기·오류 유형을 조건부확률로 계층화한 Adaptive Patch Sampling 연구.
+nnU-Net 기반 3D 복부 CT 분할에서 장기·오류 유형을 조건부확률로 계층화한 Adaptive Patch Sampling 연구
 
-- TotalSegmentator · Dice-deficit EMA · 장기별·오류 유형별 적응형 배분
-- 2026 한국정보기술학회(KIIT) 추계종합학술대회 대학생논문경진대회 참가
+- TotalSegmentator v2.0.1 데이터셋으로 장기 및 오류 유형별 Adaptive sampling 정책 적용
+- 2026 한국정보기술학회(KIIT) 추계종합학술대회 대학생논문경진대회 (On-going)
 
 ---
 
@@ -49,7 +33,7 @@ nnU-Net 기반 3D 복부 CT 분할에서 장기·오류 유형을 조건부확�
 
 ### 01 · [MediScope](https://github.com/Laplace-tech/capstone-cxr) &nbsp;<sub><img src="https://img.shields.io/badge/Team%20Leader-0F766E?style=flat-square" alt="Team Leader" /></sub>
 
-CNN 기반 Chest X-ray classification model과 Grad-CAM 시각화 기법을 web application으로 통합한 의료영상 판독 보조 프로토타입.
+DenseNet 기반 Chest X-ray classification model과 Grad-CAM 시각화 기법을 web application으로 통합한 의료영상 판독 보조 프로토타입.
 
 - Multi-label classification과 Grad-CAM을 결합한 AI architecture 설계
 - Data preparation, model training, inference, service integration을 잇는 end-to-end R&D pipeline 구축
