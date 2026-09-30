@@ -38,10 +38,10 @@ with an emphasis on reproducible experiments and critical evaluation.
 
 ### [Hierarchical Patch Sampling for 3D CT](https://github.com/Laplace-tech/hierarchical-patch-sampling-3d) &nbsp;<sub><img src="https://img.shields.io/badge/Manuscript-7C3AED?style=flat-square" alt="Manuscript" /></sub>
 
-장기별 학습 상태와 오류 유형을 조건부확률로 계층화한 3D 복부 CT 패치 샘플링 연구.
+nnU-Net 기반 3D 복부 CT 분할에서 장기·오류 유형을 조건부확률로 계층화한 Adaptive Patch Sampling 연구.
 
-- TotalSegmentator와 nnU-Net을 기반으로 고정·적응형 샘플링 정책 비교
-- 다중 seed 실험으로 초기 학습 효율과 수렴 성능의 변화·한계 분석
+- TotalSegmentator · Dice-deficit EMA · 장기별·오류 유형별 적응형 배분 · 다중 seed 비교
+- 2026 KIIT 추계종합학술대회 대학생논문경진대회 참가 예정
 
 ---
 
@@ -49,9 +49,9 @@ with an emphasis on reproducible experiments and critical evaluation.
 
 ### 01 · [MediScope](https://github.com/Laplace-tech/capstone-cxr) &nbsp;<sub><img src="https://img.shields.io/badge/Team%20Leader-0F766E?style=flat-square" alt="Team Leader" /></sub>
 
-흉부 X-ray의 5개 소견 예측과 Grad-CAM 시각화를 제공하는 판독 보조 웹 프로토타입.
+DenseNet121의 흉부 X-ray 다중 라벨 분류와 Grad-CAM 시각화를 결합한 판독 보조 웹 프로토타입.
 
-- Team Leader·AI Lead로 모델 학습·선정과 추론 서비스 통합 담당
+- 5개 소견 예측 · 클래스별 threshold 적용 · Team Leader·AI Lead로 추론 서비스 통합
 - 관련 공동 논문 제1저자 · 2026 KIIT 하계 대학생논문경진대회 우수논문상(은상)
 
 <br />
@@ -60,8 +60,8 @@ with an emphasis on reproducible experiments and critical evaluation.
 
 CheXpert 흉부 X-ray 데이터의 5개 소견을 분류하는 DenseNet121 학습·평가 프로젝트.
 
-- 불확실한 라벨의 처리 방식에 따른 분류 성능 비교
-- 클래스별 AUROC·AUPRC 평가, threshold 조정, Grad-CAM 시각화 구현
+- U-Ignore·U-Ones·U-Zero 비교 · BCEWithLogitsLoss와 pos_weight 적용
+- 클래스별 AUROC·AUPRC 평가 · validation F1 기반 threshold 조정 · Grad-CAM 시각화
 
 ---
 
