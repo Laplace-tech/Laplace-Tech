@@ -13,16 +13,16 @@
 | Name | Yongmin Park (박용민) |
 | Academic Affiliation | 경기대학교(수원) · 컴퓨터공학전공 (Entered in 2022) |
 | Academic Status | 3rd-Year Undergraduate Student |
-| Current Research | OLES3D · 3D Abdominal CT Segmentation · Adaptive Patch Sampling |
-| Research Interests | Medical AI · Medical Imaging · AI for Healthcare |
+| Current Research | Hierarchical Conditional Patch Sampling · 3D Abdominal CT Segmentation |
+| Research Interests | Medical AI · Medical Image Analysis · Reliable AI for Healthcare |
 | Email | [add28482848@kyonggi.ac.kr](mailto:add28482848@kyonggi.ac.kr) |
 
 ---
 
 ## About Me
 
-Exploring diverse AI domains by studying the principles behind modern models
-and designing reproducible research pipelines from experimentation to deployment.
+Studying medical AI through hands-on research in medical image analysis,
+with an emphasis on reproducible experiments and critical evaluation.
 
 ---
 
@@ -36,42 +36,32 @@ and designing reproducible research pipelines from experimentation to deployment
 
 ## Current Research
 
-### [OLES3D](https://github.com/Laplace-tech/oles3d) &nbsp;<sub><img src="https://img.shields.io/badge/IN%20PROGRESS-7C3AED?style=flat-square" alt="In Progress" /></sub>
+### [Hierarchical Patch Sampling for 3D CT](https://github.com/Laplace-tech/hierarchical-patch-sampling-3d) &nbsp;<sub><img src="https://img.shields.io/badge/Manuscript-7C3AED?style=flat-square" alt="Manuscript" /></sub>
 
-nnU-Net v2의 architecture와 training budget을 고정하고, 장기별 학습상태와 오류유형을 이용한 adaptive patch sampling을 검증하는 3D abdominal CT segmentation 연구.
+장기별 학습 상태와 오류 유형을 조건부확률로 계층화한 3D 복부 CT 패치 샘플링 연구.
 
-- TotalSegmentator v2 공개 CT의 selected abdominal organs를 대상으로 한 reproducible evaluation protocol 설계
-- Single 8 GB GPU에서 default, matched static sampler, OLES3D를 비교하고 accuracy–time–memory trade-off 분석
+- TotalSegmentator와 nnU-Net을 기반으로 고정·적응형 샘플링 정책 비교
+- 다중 seed 실험으로 초기 학습 효율과 수렴 성능의 변화·한계 분석
 
 ---
 
-## Completed works
+## Featured Work
 
 ### 01 · [MediScope](https://github.com/Laplace-tech/capstone-cxr) &nbsp;<sub><img src="https://img.shields.io/badge/Team%20Leader-0F766E?style=flat-square" alt="Team Leader" /></sub>
 
-CNN 기반 Chest X-ray classification model과 Grad-CAM 시각화 기법을 web application으로 통합한 의료영상 판독 보조 프로토타입.
+흉부 X-ray의 5개 소견 예측과 Grad-CAM 시각화를 제공하는 판독 보조 웹 프로토타입.
 
-- Multi-label classification과 Grad-CAM을 결합한 AI architecture 설계
-- Data preparation, model training, inference, service integration을 잇는 end-to-end R&D pipeline 구축
-
-<br />
-
-### 02 · [CheXpert Research PoC](https://github.com/Laplace-tech/CheXpert) &nbsp;<sub><img src="https://img.shields.io/badge/1st%20Author-475569?style=flat-square" alt="1st Author" /></sub>
-
-스탠퍼드 머신러닝 그룹이 공개한 CheXpert 데이터셋을 활용해 의료영상 분류 모델의 학습·평가 파이프라인을 검증한 research PoC.
-
-- Uncertainty label policy를 포함한 data preparation과 model training workflow 설계
-- Class-wise evaluation, threshold tuning, error analysis, Grad-CAM 기반 inference flow 구현
-- 2026 한국정보기술학회 하계종합학술대회 대학생 논문경진대회 우수논문상 은상
+- Team Leader·AI Lead로 모델 학습·선정과 추론 서비스 통합 담당
+- 관련 공동 논문 제1저자 · 2026 KIIT 하계 대학생논문경진대회 우수논문상(은상)
 
 <br />
 
-### 03 · [Maverick](https://github.com/Laplace-tech/maverick) &nbsp;<sub><img src="https://img.shields.io/badge/2026%20%ED%95%98%EA%B3%84%EB%B0%A9%ED%95%99%20%EA%B0%9C%EC%9D%B8%20%EA%B3%B5%EB%B6%80-1E3A5F?style=flat-square" alt="2026 하계방학 개인 공부" /></sub>
+### 02 · [CheXpert Research PoC](https://github.com/Laplace-tech/CheXpert) &nbsp;<sub><img src="https://img.shields.io/badge/Research%20PoC-475569?style=flat-square" alt="Research PoC" /></sub>
 
-[Dive into Deep Learning](https://d2l.ai/)의 수식과 algorithm을 PyTorch로 재구성한 학습 repository.
+CheXpert 흉부 X-ray 데이터의 5개 소견을 분류하는 DenseNet121 학습·평가 프로젝트.
 
-- Linear Regression과 Classification부터 CNN, RNN, Attention, Transformer까지 modern deep learning의 핵심 model을 scratch부터 구현
-- Low-level algorithm과 PyTorch abstraction을 비교하며 tensor shape, data flow, training behavior 검증
+- 불확실한 라벨의 처리 방식에 따른 분류 성능 비교
+- 클래스별 AUROC·AUPRC 평가, threshold 조정, Grad-CAM 시각화 구현
 
 ---
 
