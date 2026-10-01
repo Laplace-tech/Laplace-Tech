@@ -11,8 +11,8 @@
 | Profile | Details |
 |---|---|
 | Name | Yongmin Park (박용민) |
-| Affiliation | 경기대학교(수원) · 컴퓨터공학전공 |
-| Status | 3rd-Year Undergraduate (Entered in 2022) |
+| Academic Affiliation | 경기대학교(수원) · 컴퓨터공학전공 (Entered in 2022) |
+| Academic Status | 3rd-Year Undergraduate Student |
 | Research Interests | Medical AI · Medical Imaging · AI for Healthcare |
 | Email | add28482848@kyonggi.ac.kr |
 
@@ -22,9 +22,9 @@
 
 ### [Hierarchical Patch Sampling for 3D CT](https://github.com/Laplace-tech/hierarchical-patch-sampling-3d) &nbsp;<sub><img src="https://img.shields.io/badge/Sole%20Author-7C3AED?style=flat-square" alt="단독 저자" /></sub>
 
-3D 복부 CT Segmentation에서 장기별 학습 상태(organ-wise learning states)와 오류 유형(error types)을 계층적 조건부 확률(hierarchical conditional probability) 구조로 모델링한 Adaptive Patch Sampling 연구.
+3D 복부 CT Segmentation에서 organ-wise learning states와 error types을 hierarchical conditional probability 구조로 모델링한 Adaptive Patch Sampling 연구.
 
-- TotalSegmentator v2.0.1과 nnU-Net v2.8.1의 3d_fullres 설정을 기반으로 동일한 학습 조건을 유지하고, Patch Sampling Policy만 단계적으로 변경하여 hierarchical adaptive sampling의 효과를 비교
+- TotalSegmentator와 nnU-Net을 기반으로 동일한 학습 조건을 유지하고, Patch Sampling Policy만 단계적으로 변경하여 adaptive sampling의 효과를 비교
 - 2026 한국정보기술학회(KIIT) 추계종합학술대회 대학생논문경진대회 참가 (On-going)
 
 ---
@@ -48,7 +48,7 @@ Stanford ML Group이 공개한 CheXpert 데이터셋을 활용해 multi-label ch
 
 <br />
 
-### 03 · [Maverick](https://github.com/Laplace-tech/maverick) &nbsp;<sub><img src="https://img.shields.io/badge/2026%20%ED%95%98%EA%B3%84%EB%B0%A9%ED%95%99%20%EA%B0%9C%EC%9D%B8%20%EA%B3%B5%EB%B6%80-1E3A5F?style=flat-square" alt="2026 여름 Study" /></sub>
+### 03 · [Maverick](https://github.com/Laplace-tech/maverick) &nbsp;<sub><img src="https://img.shields.io/badge/2026%20%EC%97%AC%EB%A6%84%20Study-1E3A5F?style=flat-square" alt="2026 여름 Study" /></sub>
 
 [Dive into Deep Learning](https://d2l.ai/)의 수식과 algorithm을 PyTorch로 재구성한 학습 repository.
 
