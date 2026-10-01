@@ -48,12 +48,6 @@ Stanford ML Group이 공개한 CheXpert 데이터셋을 활용해 multi-label ch
 
 <br />
 
-### 03 · [Maverick](https://github.com/Laplace-tech/maverick) &nbsp;<sub><img src="https://img.shields.io/badge/2026%20%EC%97%AC%EB%A6%84%20Study-1E3A5F?style=flat-square" alt="2026 여름 Study" /></sub>
-
-[Dive into Deep Learning](https://d2l.ai/)의 수식과 algorithm을 PyTorch로 재구성한 학습 repository.
-
-- Linear Regression과 Classification부터 CNN, RNN, Attention, Transformer까지 modern deep learning의 핵심 model을 scratch부터 구현
-
 ---
 
 ## Technical Stack
