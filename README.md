@@ -8,24 +8,24 @@
 
 ## Profile
 
-| | |
+| Profile | Details |
 |---|---|
 | Name | Yongmin Park (박용민) |
-| Academic Affiliation | 경기대학교(수원) · 컴퓨터공학전공 (Entered in 2022) |
-| Academic Status | 3rd-Year Undergraduate Student |
+| Affiliation | 경기대학교(수원) · 컴퓨터공학전공 |
+| Status | 3rd-Year Undergraduate (Entered in 2022) |
 | Research Interests | Medical AI · Medical Imaging · AI for Healthcare |
-| Email | [add28482848@kyonggi.ac.kr](mailto:add28482848@kyonggi.ac.kr) |
+| Email | add28482848@kyonggi.ac.kr |
 
 ---
 
 ## Current Research
 
-### [Hierarchical Patch Sampling for 3D CT](https://github.com/Laplace-tech/hierarchical-patch-sampling-3d) &nbsp;<sub><img src="https://img.shields.io/badge/Sole%20Author-7C3AED?style=flat-square" alt="Sole Author" /></sub>
+### [Hierarchical Patch Sampling for 3D CT](https://github.com/Laplace-tech/hierarchical-patch-sampling-3d) &nbsp;<sub><img src="https://img.shields.io/badge/Sole%20Author-7C3AED?style=flat-square" alt="단독 저자" /></sub>
 
-nnU-Net 기반 3D 복부 CT 분할에서 장기·오류 유형을 조건부확률로 계층화한 Adaptive Patch Sampling 연구
+3D 복부 CT Segmentation에서 장기별 학습 상태(organ-wise learning states)와 오류 유형(error types)을 계층적 조건부 확률(hierarchical conditional probability) 구조로 모델링한 Adaptive Patch Sampling 연구.
 
-- TotalSegmentator v2.0.1 데이터셋으로 장기 및 오류 유형별 Adaptive sampling 정책 적용
-- 2026 한국정보기술학회(KIIT) 추계종합학술대회 대학생논문경진대회 (On-going)
+- TotalSegmentator v2.0.1과 nnU-Net v2.8.1의 3d_fullres 설정을 기반으로 동일한 학습 조건을 유지하고, Patch Sampling Policy만 단계적으로 변경하여 hierarchical adaptive sampling의 효과를 비교
+- 2026 한국정보기술학회(KIIT) 추계종합학술대회 대학생논문경진대회 참가 (On-going)
 
 ---
 
@@ -33,7 +33,7 @@ nnU-Net 기반 3D 복부 CT 분할에서 장기·오류 유형을 조건부확�
 
 ### 01 · [MediScope](https://github.com/Laplace-tech/capstone-cxr) &nbsp;<sub><img src="https://img.shields.io/badge/Team%20Leader-0F766E?style=flat-square" alt="Team Leader" /></sub>
 
-DenseNet 기반 Chest X-ray classification model과 Grad-CAM 시각화 기법을 web application으로 통합한 의료영상 판독 보조 프로토타입.
+전통적인 CNN 기반의 Chest X-ray classification model과 Grad-CAM 시각화 기법을 web application으로 통합한 의료영상 판독 보조 프로토타입.
 
 - Multi-label classification과 Grad-CAM을 결합한 AI architecture 설계
 - Data preparation, model training, inference, service integration을 잇는 end-to-end R&D pipeline 구축
@@ -42,20 +42,17 @@ DenseNet 기반 Chest X-ray classification model과 Grad-CAM 시각화 기법을
 
 ### 02 · [CheXpert Research PoC](https://github.com/Laplace-tech/CheXpert) &nbsp;<sub><img src="https://img.shields.io/badge/1st%20Author-475569?style=flat-square" alt="1st Author" /></sub>
 
-스탠퍼드 머신러닝 그룹이 공개한 CheXpert 데이터셋을 활용해 의료영상 분류 모델의 학습·평가 파이프라인을 검증한 research PoC.
+Stanford ML Group이 공개한 CheXpert 데이터셋을 활용해 multi-label chest X-ray classification 모델의 학습·평가 파이프라인을 재현한 PoC.
 
-- Uncertainty label policy를 포함한 data preparation과 model training workflow 설계
-- Class-wise evaluation, threshold tuning, error analysis, Grad-CAM 기반 inference flow 구현
 - 2026 한국정보기술학회(KIIT) 하계종합학술대회 대학생 논문경진대회 우수논문상 은상
 
 <br />
 
-### 03 · [Maverick](https://github.com/Laplace-tech/maverick) &nbsp;<sub><img src="https://img.shields.io/badge/2026%20%ED%95%98%EA%B3%84%EB%B0%A9%ED%95%99%20%EA%B0%9C%EC%9D%B8%20%EA%B3%B5%EB%B6%80-1E3A5F?style=flat-square" alt="2026 하계방학 개인 공부" /></sub>
+### 03 · [Maverick](https://github.com/Laplace-tech/maverick) &nbsp;<sub><img src="https://img.shields.io/badge/2026%20%ED%95%98%EA%B3%84%EB%B0%A9%ED%95%99%20%EA%B0%9C%EC%9D%B8%20%EA%B3%B5%EB%B6%80-1E3A5F?style=flat-square" alt="2026 여름 Study" /></sub>
 
 [Dive into Deep Learning](https://d2l.ai/)의 수식과 algorithm을 PyTorch로 재구성한 학습 repository.
 
 - Linear Regression과 Classification부터 CNN, RNN, Attention, Transformer까지 modern deep learning의 핵심 model을 scratch부터 구현
-- Low-level algorithm과 PyTorch abstraction을 비교하며 tensor shape, data flow, training behavior 검증
 
 ---
 
