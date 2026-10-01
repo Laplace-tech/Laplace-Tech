@@ -20,7 +20,7 @@
 
 ## Current Research
 
-### [Hierarchical Conditional Patch Sampling for 3D Abdominal CT Segmentation](https://github.com/Laplace-tech/hierarchical-patch-sampling-3d) &nbsp;<sub><img src="https://img.shields.io/badge/Sole%20Author-7C3AED?style=flat-square" alt="단독 저자" /></sub>
+### [Hierarchical Conditional Patch Sampling for 3D Abdominal CT Segmentation](https://github.com/Laplace-tech/hierarchical-patch-sampling-3d) &nbsp;<sub><img src="https://img.shields.io/badge/%EB%8B%A8%EB%8F%85%20%EC%A0%80%EC%9E%90-7C3AED?style=flat-square" alt="단독 저자" height="32"/></sub>
 
 3D 복부 CT Segmentation에서 organ-wise learning states와 error types을 계층형 조건부 확률 구조로 모델링한 Adaptive Patch Sampling 연구.
 
@@ -31,7 +31,7 @@
 
 ## Featured Work
 
-### 01 · [Capstone Project: MediScope](https://github.com/Laplace-tech/capstone-cxr) &nbsp;<sub><img src="https://img.shields.io/badge/Team%20Leader-0F766E?style=flat-square" alt="Team Leader" /></sub>
+### 01 · [Capstone Project: MediScope](https://github.com/Laplace-tech/capstone-cxr) &nbsp;<sub><img src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EB%A6%AC%EB%8D%94-0F766E?style=flat-square" alt="프로젝트 리더" height="32" /></sub>
 
 전통적인 CNN 기반의 Chest X-ray classification model과 Grad-CAM 시각화 기법을 web application으로 통합한 의료영상 판독 보조 프로토타입.
 
@@ -40,7 +40,7 @@
 
 <br />
 
-### 02 · [Chest X-ray Multi-Label Classification with Grad-CAM](https://github.com/Laplace-tech/CheXpert) &nbsp;<sub><img src="https://img.shields.io/badge/1st%20Author-475569?style=flat-square" alt="1st Author" /></sub>
+### 02 · [Chest X-ray Multi-Label Classification with Grad-CAM](https://github.com/Laplace-tech/CheXpert) &nbsp;<sub><img src="https://img.shields.io/badge/%EC%A0%9C1%EC%A0%80%EC%9E%90-475569?style=flat-square" alt="제1저자" height="32" /></sub>
 
 Stanford ML Group이 공개한 CheXpert 데이터셋을 활용해 multi-label chest X-ray classification 모델의 학습·평가 파이프라인을 재현한 PoC.
 
