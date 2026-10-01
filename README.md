@@ -31,7 +31,7 @@
 
 ## Featured Work
 
-### 01 · [MediScope](https://github.com/Laplace-tech/capstone-cxr) &nbsp;<sub><img src="https://img.shields.io/badge/Team%20Leader-0F766E?style=flat-square" alt="Team Leader" /></sub>
+### 01 · [Capstone Project: MediScope](https://github.com/Laplace-tech/capstone-cxr) &nbsp;<sub><img src="https://img.shields.io/badge/Team%20Leader-0F766E?style=flat-square" alt="Team Leader" /></sub>
 
 전통적인 CNN 기반의 Chest X-ray classification model과 Grad-CAM 시각화 기법을 web application으로 통합한 의료영상 판독 보조 프로토타입.
 
@@ -40,7 +40,7 @@
 
 <br />
 
-### 02 · [CheXpert Research PoC](https://github.com/Laplace-tech/CheXpert) &nbsp;<sub><img src="https://img.shields.io/badge/1st%20Author-475569?style=flat-square" alt="1st Author" /></sub>
+### 02 · [Chest X-ray Multi-Label Classification with Grad-CAM](https://github.com/Laplace-tech/CheXpert) &nbsp;<sub><img src="https://img.shields.io/badge/1st%20Author-475569?style=flat-square" alt="1st Author" /></sub>
 
 Stanford ML Group이 공개한 CheXpert 데이터셋을 활용해 multi-label chest X-ray classification 모델의 학습·평가 파이프라인을 재현한 PoC.
 
