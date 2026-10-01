@@ -22,9 +22,9 @@
 
 ### [Hierarchical Conditional Patch Sampling for 3D Abdominal CT Segmentation](https://github.com/Laplace-tech/hierarchical-patch-sampling-3d) &nbsp;<sub><img src="https://img.shields.io/badge/%EB%8B%A8%EB%8F%85%20%EC%A0%80%EC%9E%90-7C3AED?style=flat-square" alt="단독 저자" height="32"/></sub>
 
-3D 복부 CT Segmentation에서 organ-wise learning states와 error types을 계층형 조건부 확률 구조로 모델링한 Adaptive Patch Sampling 연구.
+3D 복부 CT Segmentation에서 organ-wise learning states와 error types을 계층적 조건부 확률 구조로 모델링한 Adaptive Patch Sampling 연구.
 
-- TotalSegmentator와 nnU-Net을 기반으로 동일한 학습 조건을 유지하고, Patch Sampling Policy만 단계적으로 변경하여 adaptive sampling의 효과를 비교
+- TotalSegmentator v2.0.1과 nnU-Net v2.8.1 `3d_fullres`를 baseline으로 사용하고, 동일한 학습 조건에서 Patch Sampling Policy만 단계적으로 변경하여 adaptive sampling의 효과를 정량적으로 비교
 - 2026 한국정보기술학회(KIIT) 추계종합학술대회 대학생논문경진대회 참가 (On-going)
 
 ---
