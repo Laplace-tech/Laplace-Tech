@@ -37,6 +37,7 @@
 
 - Multi-label classification과 Grad-CAM을 결합한 AI architecture 설계
 - Data preparation, model training, inference, service integration을 잇는 end-to-end R&D pipeline 구축
+- 2026 경기대학교 캡스톤디자인 경진대회 기초캡스톤 부문 장려상 수상
 
 <br />
 
@@ -44,6 +45,7 @@
 
 Stanford ML Group이 공개한 CheXpert 데이터셋을 활용해 multi-label chest X-ray classification 모델의 학습·평가 파이프라인을 재현한 PoC.
 
+- Uncertainty label policy 비교, class-wise evaluation, threshold tuning과 Grad-CAM 기반 error analysis를 포함한 reproducible experiment pipeline 구축
 - 2026 한국정보기술학회(KIIT) 하계종합학술대회 대학생 논문경진대회 우수논문상 은상
 
 <br />
