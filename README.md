@@ -20,12 +20,11 @@
 
 ## Current Research
 
-### 01 · [Organ-wise Heterogeneity of Pediatric Adaptation Gains in Adult-trained CT Multi-organ Segmentation](https://github.com/Laplace-tech/totalsegmentator-v3-pediatric-adaptation) &nbsp;<sub><img src="https://img.shields.io/badge/%EC%97%B0%EA%B5%AC%20%EC%A7%84%ED%96%89%20%EC%A4%91-6D28D9?style=flat-square" alt="연구 진행 중" height="20"/></sub>
+### 01 · [Organ-wise Heterogeneity of Pediatric Adaptation Gains in Adult-trained CT Multi-organ Segmentation](https://github.com/Laplace-tech/totalsegmentator-v3-pediatric-adaptation) &nbsp;<sub><img src="https://img.shields.io/badge/%EC%97%B0%EA%B5%AC%20%EC%A7%84%ED%96%89%20%EC%A4%91-6D28D9?style=flat-square" alt="진행 중" height="20"/></sub>
 
-TotalSegmentator CT V3 공개 데이터로 성인 기반 CT 다장기 분할 모델의 소아 적응 효과가 장기마다 어떻게 다른지 분석하는 case 단위 연구.
+성인 CT 기반 다장기 분할 모델의 소아 적응에 따른 장기별 성능 개선의 이질성 분석
 
 - 7개 복부 장기에서 성인 기준선 M0, 소아 추가 학습 M1, 동일 예산의 성인 추가 학습 M2를 비교
-- 3개 seed 중 2개 학습 완료. Development validation에서 장기별 소아 성능 개선과 성인 성능 저하를 관찰했으며, 공식 test 평가는 아직 진행하지 않음
 
 ### 02 · [Hierarchical Conditional Patch Sampling for 3D Abdominal CT Segmentation](https://github.com/Laplace-tech/hierarchical-patch-sampling-3d) &nbsp;<sub><img src="https://img.shields.io/badge/%EB%8B%A8%EB%8F%85%20%EC%A0%80%EC%9E%90-7C3AED?style=flat-square" alt="단독 저자" height="20"/></sub>
 
@@ -55,7 +54,6 @@ Stanford ML Group의 CheXpert 데이터셋을 활용하여 Multi-label Chest X-r
 
 - Uncertainty Label Policy 비교 및 클래스별(Class-wise) 성능 평가
 - Decision Threshold Tuning과 Grad-CAM 기반 오류 분석을 통한 모델 예측 특성 검토
-- 재현 가능한 실험을 위한 데이터 처리, 모델 학습 및 평가 파이프라인 구축
 - **2026 한국정보기술학회(KIIT) 하계종합학술대회 대학생논문경진대회 우수논문상(은상) 수상**
 
 <br />
