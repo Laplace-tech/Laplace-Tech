@@ -20,12 +20,19 @@
 
 ## Current Research
 
-### [Hierarchical Conditional Patch Sampling for 3D Abdominal CT Segmentation](https://github.com/Laplace-tech/hierarchical-patch-sampling-3d) &nbsp;<sub><img src="https://img.shields.io/badge/%EB%8B%A8%EB%8F%85%20%EC%A0%80%EC%9E%90-7C3AED?style=flat-square" alt="단독 저자" height="20"/></sub>
+### 01 · [Organ-wise Pediatric Adaptation in CT Multi-organ Segmentation](https://github.com/Laplace-tech/totalsegmentator-v3-pediatric-adaptation) &nbsp;<sub><img src="https://img.shields.io/badge/%EC%97%B0%EA%B5%AC%20%EC%A7%84%ED%96%89%20%EC%A4%91-6D28D9?style=flat-square" alt="연구 진행 중" height="20"/></sub>
 
-3D 복부 CT Segmentation에서 장기별 학습 상태(organ-wise learning states)와 오류 유형(error types)을 계층적 조건부 확률 구조로 모델링하여, Adaptive Patch Sampling의 효과를 분석하는 연구.
+TotalSegmentator CT V3 공개 데이터로 성인 기반 CT 다장기 분할 모델의 소아 적응 효과가 장기마다 어떻게 다른지 분석하는 case 단위 연구.
 
-- TotalSegmentator v2.0.1과 nnU-Net v2.8.1 (`3d_fullres`)을 baseline으로 설정하고, 동일한 학습 조건에서 Patch Sampling Policy만 단계적으로 변경하여 성능 차이를 정량적으로 비교
-- 장기별 분할 성능과 오류 특성을 분석하여 sampling policy 변화가 학습 과정에 미치는 영향을 평가
+- 7개 복부 장기에서 성인 기준선 M0, 소아 추가 학습 M1, 동일 예산의 성인 추가 학습 M2를 비교
+- 3개 seed 중 2개 학습 완료. Development validation에서 장기별 소아 성능 개선과 성인 성능 저하를 관찰했으며, 공식 test 평가는 아직 진행하지 않음
+
+### 02 · [Hierarchical Conditional Patch Sampling for 3D Abdominal CT Segmentation](https://github.com/Laplace-tech/hierarchical-patch-sampling-3d) &nbsp;<sub><img src="https://img.shields.io/badge/%EB%8B%A8%EB%8F%85%20%EC%A0%80%EC%9E%90-7C3AED?style=flat-square" alt="단독 저자" height="20"/></sub>
+
+3D 복부 CT 분할에서 장기별 학습 상태와 오류 유형을 계층적 조건부 확률 구조로 모델링하고, adaptive patch sampling의 효과를 분석하는 연구.
+
+- TotalSegmentator v2.0.1과 nnU-Net v2.8.1 (`3d_fullres`)을 기준으로 학습 조건을 고정하고 patch sampling policy의 영향 비교
+- 장기별 분할 성능과 오류 특성으로 sampling policy 변화가 학습에 미치는 영향 평가
 - 2026 한국정보기술학회(KIIT) 추계종합학술대회 대학생논문경진대회 참가 (진행 중)
 
 ---
