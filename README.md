@@ -20,7 +20,7 @@
 
 ## Current Research
 
-### 01 · [Organ-wise Pediatric Adaptation in CT Multi-organ Segmentation](https://github.com/Laplace-tech/totalsegmentator-v3-pediatric-adaptation) &nbsp;<sub><img src="https://img.shields.io/badge/%EC%97%B0%EA%B5%AC%20%EC%A7%84%ED%96%89%20%EC%A4%91-6D28D9?style=flat-square" alt="연구 진행 중" height="20"/></sub>
+### 01 · [Organ-wise Heterogeneity of Pediatric Adaptation Gains in Adult-trained CT Multi-organ Segmentation](https://github.com/Laplace-tech/totalsegmentator-v3-pediatric-adaptation) &nbsp;<sub><img src="https://img.shields.io/badge/%EC%97%B0%EA%B5%AC%20%EC%A7%84%ED%96%89%20%EC%A4%91-6D28D9?style=flat-square" alt="연구 진행 중" height="20"/></sub>
 
 TotalSegmentator CT V3 공개 데이터로 성인 기반 CT 다장기 분할 모델의 소아 적응 효과가 장기마다 어떻게 다른지 분석하는 case 단위 연구.
 
