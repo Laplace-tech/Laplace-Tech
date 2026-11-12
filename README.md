@@ -13,7 +13,7 @@
 | Name | Yongmin Park (박용민) |
 | Affiliation | 경기대학교(수원) · 컴퓨터공학전공 |
 | Academic Status | 3rd-Year Undergraduate Student (Enrolled in 2022) |
-| Research Interests | Medical AI · Medical Imaging · AI for Healthcare |
+| Research Interests | Medical AI · Digital Healthcare |
 | Email | add28482848@kyonggi.ac.kr |
 
 ---
