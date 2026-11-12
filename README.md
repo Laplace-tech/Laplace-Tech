@@ -26,13 +26,15 @@
 
 - 7개 복부 장기에서 성인 기준선 M0, 소아 추가 학습 M1, 동일 예산의 성인 추가 학습 M2를 비교
 
-### 02 · [Hierarchical Conditional Patch Sampling for 3D Abdominal CT Segmentation](https://github.com/Laplace-tech/hierarchical-patch-sampling-3d) &nbsp;<sub><img src="https://img.shields.io/badge/%EB%8B%A8%EB%8F%85%20%EC%A0%80%EC%9E%90-7C3AED?style=flat-square" alt="단독 저자" height="20"/></sub>
+### 02 · [Hierarchical Conditional-Probability-Based Adaptive Patch Sampling](https://github.com/Laplace-tech/hierarchical-patch-sampling-3d) &nbsp;<sub><img src="https://img.shields.io/badge/%EB%8B%A8%EB%8F%85%20%EC%A0%80%EC%9E%90-7C3AED?style=flat-square" alt="단독 저자" height="20"/></sub>
 
-3D 복부 CT 분할에서 장기별 학습 상태와 오류 유형을 계층적 조건부 확률 구조로 모델링하고, adaptive patch sampling의 효과를 분석하는 연구.
+3차원 복부 CT 다장기 분할에서 **장기별 학습 상태(Organ-Wise Learning State)**와 **예측 오류 유형(Error Type)**을 계층적 조건부확률로 연결하는 적응형 패치 샘플링 연구.
 
-- TotalSegmentator v2.0.1과 nnU-Net v2.8.1 (`3d_fullres`)을 기준으로 학습 조건을 고정하고 patch sampling policy의 영향 비교
-- 장기별 분할 성능과 오류 특성으로 sampling policy 변화가 학습에 미치는 영향 평가
-- 2026 한국정보기술학회(KIIT) 추계종합학술대회 대학생논문경진대회 참가 (진행 중)
+- **Proposed method:** 학습 중 관찰한 Dice 부족분으로 장기를 선택하고, 내부 누락·경계 불일치·외부 오탐을 구분한 뒤 3D 패치 중심 좌표를 선택
+- **Experimental design:** TotalSegmentator v2.0.1의 9개 장기(602개 CT case) 및 nnU-Net v2.8.1을 사용하여 B0·B1·A1·P 샘플링 정책 비교
+- **Observation:** 대표 실행의 validation 10K에서 P − B0 **+5.1228 pp**, 30K에서는 **−0.0139 pp**로 격차 감소. 단일 실행에서 관찰한 수치이며 일반적 우월성 주장으로 해석하지 않음
+- **Academic output:** 2026 한국정보기술학회(KIIT) 추계종합학술대회 대학생논문경진대회 논문
+- **Research materials:** [연구 방법·수식·시각자료·결과표](https://github.com/Laplace-tech/hierarchical-patch-sampling-3d#overview)
 
 ---
 
