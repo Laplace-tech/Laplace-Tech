@@ -35,6 +35,7 @@
 - **Observation:** 대표 실행의 validation 10K에서 P − B0 **+5.1228 pp**, 30K에서는 **−0.0139 pp**로 격차 감소. 단일 실행에서 관찰한 수치이며 일반적 우월성 주장으로 해석하지 않음
 - **Academic output:** 2026 한국정보기술학회(KIIT) 추계종합학술대회 대학생논문경진대회 논문
 - **Research materials:** [연구 방법·수식·시각자료·결과표](https://github.com/Laplace-tech/hierarchical-patch-sampling-3d#overview)
+- **Conference presentation:** [Hierarchical Conditional-Probability-Based Adaptive Patch Sampling (PDF)](https://github.com/Laplace-tech/hierarchical-patch-sampling-3d/blob/main/paper/Hierarchical%20Conditional-Probability-Based%20Adaptive%20Patch%20Sampling.pdf)
 
 ---
 
