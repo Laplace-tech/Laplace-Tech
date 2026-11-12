@@ -40,8 +40,6 @@
 
 CNN 기반 Chest X-ray Classification 모델과 Grad-CAM 시각화 기법을 웹 애플리케이션에 통합한 의료영상 판독 보조 프로토타입.
 
-- Multi-label Classification과 Grad-CAM을 결합한 AI 모델 및 추론 구조 설계
-- 데이터 전처리, 모델 학습·평가, 추론 및 웹 서비스 연계를 포함한 end-to-end 개발 파이프라인 구축
 - **2026 경기대학교 산학협력 캡스톤디자인 경진대회 기초캡스톤 부문 장려상 수상**
 
 <br />
@@ -50,8 +48,6 @@ CNN 기반 Chest X-ray Classification 모델과 Grad-CAM 시각화 기법을 웹
 
 Stanford ML Group의 CheXpert 데이터셋을 활용하여 Multi-label Chest X-ray Classification 모델의 학습·평가 파이프라인을 재현하고 분석한 Proof of Concept(PoC).
 
-- Uncertainty Label Policy 비교 및 클래스별(Class-wise) 성능 평가
-- Decision Threshold Tuning과 Grad-CAM 기반 오류 분석을 통한 모델 예측 특성 검토
 - **2026 한국정보기술학회(KIIT) 하계종합학술대회 대학생논문경진대회 우수논문상(은상) 수상**
 
 <br />
